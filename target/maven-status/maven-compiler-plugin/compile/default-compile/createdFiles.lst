@@ -1,0 +1,4 @@
+org\learn\hibernate\dao\EmployeeDao.class
+org\learn\hibernate\domain\Employee.class
+domain\Employee.class
+org\learn\hibernate\HibernateApplication.class
